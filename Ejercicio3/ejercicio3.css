@@ -1,0 +1,99 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #697565;
+}
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border: 0px;
+}
+nav ul {
+    background-color: gray;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;    
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover {
+    background-color: black;   
+}
+#imaps{
+    width: 300px;
+    height: 430px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-left: 250px;
+}
+#ifacebook{
+    width: 290px;
+    height: 310px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-left: 300px;
+}
+#iyoutube{
+    width: 500px;
+    height: 310px;
+    border-radius: 20%;
+    object-fit: cover;
+}
+#imercado{
+    width: 500px;
+    height: 310px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-left: 70px;
+}
+#iamazon{
+    width: 500px;
+    height: 310px;
+    border-radius: 20%;
+    object-fit: cover;
+    margin-left: 100px;
+}
+.contenido {
+    display: flex;
+    margin: 80px;
+}
+.articulos {
+    width: 80%;
+    border-right: 3px solid black;
+}
+.secciones {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+.menusecundario {
+    width: 20%;
+    margin-top: 60px;
+}
+.menusecundario a {
+    display:block;
+    text-align: center;
+    color: black;
+    margin-bottom: 50px;
+}
+h2 {
+    text-align: center;
+}
+#fo {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+#alineado {
+    text-align: justify;
+}
+

@@ -1,0 +1,11 @@
+body{
+    background: rgb(129,17,0);
+    background: linear-gradient(0deg, rgba(129,17,0,1) 0%, rgba(255,252,198,1) 100%);
+}
+img{
+    display: block;/**Se comporta como un bloque**/
+    margin: auto; /**Centra dentro de su contenedor**/
+}
+.largo{
+    text-align: justify;
+}

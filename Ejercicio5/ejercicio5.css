@@ -1,0 +1,18 @@
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,146,253,1) 25%, rgba(69,252,211,1) 100%);
+}
+h1{
+    font-family: "Bodoni Moda SC", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    border: 2px,solid,black;
+}
+.cuerpo{
+
+        font-family: "Beau Rivage", cursive;
+        font-style: normal;
+        font-size: 50px;
+        text-align: center;
+}

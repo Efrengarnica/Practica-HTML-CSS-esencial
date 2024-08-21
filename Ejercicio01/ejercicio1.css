@@ -1,0 +1,12 @@
+body{
+    background-image: URL("../assets2/Tiempo\ \(1\).webp");
+    background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center; /* Centra la imagen en el fondo */
+}
+.der{
+    text-align: right; 
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+
+}
+

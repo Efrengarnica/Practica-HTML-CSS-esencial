@@ -1,0 +1,43 @@
+body {
+    background-color: #E0E5B6;
+    margin: 0px;
+
+}
+.Titulos {
+    background-color: #CCD5AE;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: "Cormorant", serif;
+ 
+}
+.ciudades {
+    background-color: #FAEDCE;
+    width: 500px;
+  
+}
+nav ul {
+    list-style-type: none;
+    background-color: #FEFAE0;
+    width: 500px;
+  
+}
+#ciu {
+    width: 400px;
+}
+#receta {
+    background-color: #FAEDCE;
+    margin-top: 0px;
+}
+#listas {
+    margin-top: 0px;
+}
+#materias {
+    background-color: #FAEDCE;
+    margin-top: 0px;
+}
+
+
